@@ -1,0 +1,1 @@
+python -m cProfile -s time %1 > profile_log.txt
